@@ -1,5 +1,5 @@
 # About me
-- Python(FastAPI, SQLALchemy) backend developer
+- Python(FastAPI, SQLALchemy), NodeJS(NestJS, Prisma ORM) backend developer
 - Have no work right now
 - [DevTime 2022](https://vk.com/dev_time) 1rd place in "Кейс от партнёра «Калина-Малина» для тайного покупателя" case (Swap Tech team, made together with [Danil](https://github.com/MagicFefe) and [Oleg](https://github.com/TheBakerCat))
 # Contact me
