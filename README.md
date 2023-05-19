@@ -7,7 +7,7 @@
 - Learning management system. Proprietary. Goal is to deliver to people another way of learning - ask one question, answer another one question, evaluate all of them. In development. Stack: FastAPI/SQLAlchemy/Postgres/Redis.  
 - # FINHAMSTER APP  
 - Financial control application. Wrote sorting of categories inside one "desk". NestJS/Prisma  
-Other of repositories are test tasks or some fun things for learning.
+# Other repositories are test tasks or some fun things for learning.
 # Contact me
 - Telegram: https://t.me/kaiserroman
 
