@@ -1,6 +1,6 @@
 # About me
 - Python(FastAPI, SQLALchemy), NodeJS(NestJS, Prisma ORM) backend developer
-- Have no work right now
+- Working as a Golang/Vue fullstack developer in [edison](https://www.edsd.ru/)
 - [DevTime 2022](https://vk.com/dev_time) 1rd place in "Кейс от партнёра «Калина-Малина» для тайного покупателя" case (Swap Tech team, made together with [Danil](https://github.com/MagicFefe) and [Oleg](https://github.com/TheBakerCat))
 - Projects I've worked on:
 - # LOMDA  
