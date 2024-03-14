@@ -1,5 +1,5 @@
 # About me
-- Python(FastAPI, SQLALchemy), NodeJS(NestJS, Prisma ORM) backend developer
+- Golang backend developer
 - Middle Golang developer in [amocrm](https://www.amocrm.ru/)
 - [DevTime 2022](https://vk.com/dev_time) 1rd place in "Кейс от партнёра «Калина-Малина» для тайного покупателя" case (Swap Tech team, made together with [Danil](https://github.com/MagicFefe) and [Oleg](https://github.com/TheBakerCat))
 - Projects I've worked on:
