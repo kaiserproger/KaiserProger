@@ -11,7 +11,7 @@ Learning management system. Proprietary. Goal is to deliver to people another wa
 - ## FINHAMSTER APP (freelance single task, 2023)
 Financial control application. Wrote sorting of categories inside one "desk". Stack: NestJS/Prisma  
 - ## АЛЬБОМ ГОДА (site, 2024-)
-- To be filled...
+To be filled...
 # Other repositories are test tasks or some fun things for learning.
 # Contact me
 - Telegram: https://t.me/kaiserroman
