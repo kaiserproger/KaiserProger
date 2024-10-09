@@ -1,12 +1,16 @@
+# Roman Kaiser, 19 y.o. Golang developer from Russia.
 # About me
 - Middle Golang developer in [MerlionTech](https://merliontech.ru/)
 - [DevTime 2022](https://vk.com/dev_time) 1rd place in "Кейс от партнёра «Калина-Малина» для тайного покупателя" case (Swap Tech team, made together with [Danil](https://github.com/MagicFefe) and [Oleg](https://github.com/TheBakerCat))
 # Projects I've worked on:
-- # LOMDA (permanent backend developer, 2023)
-- Learning management system. Proprietary. Goal is to deliver to people another way of learning - ask one question, answer another one question, evaluate all of them. Abandoned. Stack: FastAPI/SQLAlchemy/Postgres/Redis.  
-- # FINHAMSTER APP (freelance single task, 2023)
-- Financial control application. Wrote sorting of categories inside one "desk". NestJS/Prisma
-- # АЛЬБОМ ГОДА (site, 2024-)
+- ## Kalina-Check (backend developer, 2022)
+Loyalty program service backend, developer for Kalina-Malina. Wrote it on the hackathon DevTime 2022 (link above). Discontinued due to disagreements with customer. Now it server as a example of my outdated FastAPI experience.  
+[Source](https://github.com/KaiserProger/kalina_backend)  
+- ## LOMDA (backend developer, 2023)
+Learning management system. Proprietary. Goal is to deliver to people another way of learning - ask one question, answer another one question, evaluate all of them. Abandoned. Stack: FastAPI/SQLAlchemy/Postgres/Redis.  
+- ## FINHAMSTER APP (freelance single task, 2023)
+Financial control application. Wrote sorting of categories inside one "desk". Stack: NestJS/Prisma  
+- ## АЛЬБОМ ГОДА (site, 2024-)
 - To be filled...
 # Other repositories are test tasks or some fun things for learning.
 # Contact me
