@@ -4,7 +4,7 @@
 - [DevTime 2022](https://vk.com/dev_time) 1rd place in "Кейс от партнёра «Калина-Малина» для тайного покупателя" case (Swap Tech team, made together with [Danil](https://github.com/MagicFefe) and [Oleg](https://github.com/TheBakerCat))
 # Projects I've worked on:
 - ## Kalina-Check (backend developer, 2022)
-Loyalty program service backend, developed for Kalina-Malina. Wrote it on the hackathon DevTime 2022 (link above). Discontinued due to disagreements with customer. Now it server as a example of my outdated FastAPI experience.  
+Loyalty program service backend, developed for Kalina-Malina. Wrote it on the hackathon DevTime 2022 (link above). Discontinued due to disagreements with customer. Now it serves as a example of my outdated FastAPI experience.  
 [Source](https://github.com/KaiserProger/kalina_backend)  
 - ## LOMDA (backend developer, 2023)
 Learning management system. Proprietary. Goal is to deliver to people another way of learning - ask one question, answer another one question, evaluate all of them. Abandoned. Stack: FastAPI/SQLAlchemy/Postgres/Redis.  
