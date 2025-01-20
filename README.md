@@ -1,4 +1,4 @@
-# Roman Kaiser, 19 y.o. Golang developer from Russia.
+# Roman Kaiser, 20 y.o. Golang developer from Russia.
 # About me
 - Middle Golang developer in [MerlionTech](https://merliontech.ru/)
 - [DevTime 2022](https://vk.com/dev_time) "Кейс от партнёра «Калина-Малина» для тайного покупателя" case, 1rd place (Swap Tech team, made together with [Danil](https://github.com/MagicFefe) and [Oleg](https://github.com/TheBakerCat))
