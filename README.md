@@ -3,6 +3,7 @@
 - Middle Golang developer
 - [Villager Recruits](https://github.com/talhanation/recruits) co-developer
 - [DevTime 2022](https://vk.com/dev_time) "Кейс от партнёра «Калина-Малина» для тайного покупателя" case, 1rd place (Swap Tech team, made together with [Danil](https://github.com/MagicFefe) and [Oleg](https://github.com/TheBakerCat))
+- [Система Хак: Новосибирск](https://truetecharena.ru/contests/sistema-hack-novosibirsk) 3rd place, case "МТС Финтех: Веб-инструмент проверки сайтов на доступность для людей с особыми потребностями, zavod.chan team. (Solution will be open-sourced soon)
 # Projects I've worked on:
 - ## Kalina-Check (backend developer, 2022)
 Loyalty program service backend, developed for Kalina-Malina.  
