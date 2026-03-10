@@ -1,32 +1,76 @@
-# Roman Kaiser, 20 y.o. Golang developer from Russia.
-# About me
-- Middle Golang developer
-- [Villager Recruits](https://github.com/talhanation/recruits) co-developer
-- [DevTime 2022](https://vk.com/dev_time) "Кейс от партнёра «Калина-Малина» для тайного покупателя" case, 1rd place (Swap Tech team, made together with [Danil](https://github.com/MagicFefe) and [Oleg](https://github.com/TheBakerCat))
-- [Система Хак: Новосибирск](https://truetecharena.ru/contests/sistema-hack-novosibirsk) 3rd place, case "МТС Финтех: Веб-инструмент проверки сайтов на доступность для людей с особыми потребностями, zavod.chan team. (Solution will be open-sourced soon)
-# Projects I've worked on:
-- ## Kalina-Check (backend developer, 2022)
-Loyalty program service backend, developed for Kalina-Malina.  
-Wrote it on the hackathon DevTime 2022 (link above).  
-Discontinued due to disagreements with customer.  
+# Roman Pozdnyakov
 
-Now it serves as an example of my outdated FastAPI experience.  
-[Source](https://github.com/KaiserProger/kalina_backend)  
-- ## LOMDA (backend developer, 2023)
-Learning management system. Proprietary.  
-Goal is to deliver to people another way of learning - ask one question, answer another one question, evaluate all of them.  
-Abandoned.  
-Stack: FastAPI/SQLAlchemy/Postgres/Redis.  
-- ## FINHAMSTER APP (freelance task, 2023)
-Financial control application. Made financial categories sorting.
-Stack: NestJS/Prisma  
-- ## АЛЬБОМ ГОДА (site, 2024-)
-To be filled...
-# Other repositories are test tasks or some fun things for learning.
-# Contact me
-- Telegram: https://t.me/kaiserroman
+Backend engineer working primarily with Go.
 
-<!---
-KaiserProger/KaiserProger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Focused on distributed backend systems, microservices, and event-driven architectures.  
+Most of my commercial work involved building and operating backend services for high-load systems.
+
+## Main stack
+
+Go • Kafka • gRPC • PostgreSQL • Redis • Docker • Prometheus
+
+## Experience
+
+### MERLION (Citilink)
+Backend engineer working on the product catalog platform.
+
+Worked on microservices responsible for catalog data and internal APIs.  
+Participated in monolith decomposition and development of new catalog services.
+
+Key things I worked on:
+
+- development of a catalog microservice handling millions of products  
+- internal gRPC APIs between services  
+- Kafka-based event pipelines for catalog updates  
+- rate-limiting service protecting APIs from traffic spikes  
+- debugging distributed system issues in production
+
+Load tests reached ~8600 RPS per service replica.
+
+---
+
+## Open source / modding
+
+### Villager Recruits
+Co-developer of a Minecraft mod used in modpacks.
+
+Worked on gameplay mechanics and internal AI behavior for NPC units.
+
+https://github.com/talhanation/recruits
+
+---
+
+## Hackathons
+
+### DevTime 2022
+1st place.
+
+Backend for a loyalty program service.
+
+Stack:
+FastAPI / PostgreSQL
+
+https://github.com/KaiserProger/kalina_backend
+
+---
+
+### Система Хак (Новосибирск)
+
+3rd place.
+
+Team solution: accessibility analysis tool for websites.  
+Project currently being prepared for open-source release.
+
+---
+
+## Other projects
+
+Most other repositories in this profile are:
+
+- experiments
+- test tasks
+- learning projects
+
+## Contact
+
+Telegram: https://t.me/kaiserroman
