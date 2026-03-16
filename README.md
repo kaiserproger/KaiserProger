@@ -59,7 +59,7 @@ https://github.com/KaiserProger/kalina_backend
 3rd place.
 
 Team solution: accessibility analysis tool for websites.  
-Project currently being prepared for open-source release.
+https://github.com/KaiserProger/zavod_scan
 
 ---
 
